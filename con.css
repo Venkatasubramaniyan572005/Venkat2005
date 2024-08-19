@@ -1,0 +1,66 @@
+
+.nav{
+    float: right; 
+
+
+
+
+    
+}
+a{
+    color:white;
+    text-decoration: none;
+    text-decoration: orange;
+    margin-inline: 30px;
+    
+
+}
+a:hover{
+    color: whitesmoke;
+    
+        border-radius: 50px;
+        background-color: orange;
+        margin-inline: 30px;
+    
+    
+    }
+
+
+
+
+.logo{
+    box-shadow: 100px;
+     display:flex;
+     img{
+     border-radius: 45px;
+}
+}
+h1{
+ size: 200px;
+}
+
+body{
+    background-image: url('https://upcomingevents572005.neocities.org/events/img/bgimg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+.ab{
+    font-size: large;
+}
+.te{
+    td{
+        padding-inline: 100px;
+    }
+}
+.ti{
+    td{
+        
+    }
+    td{
+    
+        padding-inline: 45px;
+        color:white;
+    }
+}
