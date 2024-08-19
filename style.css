@@ -32,6 +32,9 @@ a:hover{
 .logo{
     box-shadow: 100px;
      display:flex;
+    img{
+        border-radius:45px;
+}
 }
 .intro{
     color: white ;
